@@ -14,7 +14,7 @@ In this project, we utilize state-of-the-art language models like Falcon-7B for 
 - Evaluation metrics such as BLEU score and custom evaluation functions are used to assess generated HTML code quality.
 
 ## Dataset
-- [alpaca-instructions-dataset](https://huggingface.co/datasets/iamketan25/alpaca-instructions-dataset)
+- [alpaca-instructions-dataset]([https://huggingface.co/datasets/iamketan25/alpaca-instructions-dataset](https://huggingface.co/datasets/ttbui/html_alpaca))
 
 
 ## Prerequisites
