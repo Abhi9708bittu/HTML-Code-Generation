@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Student Attendance </title>
+    <style type="text/css">
+        h1 {
+            font-family: sans-serif;
+        }
+
+        table {
+            font-family: sans-serif;
+            border-collapse: collapse;
+        }
+
+        td {
+            border: 1px solid #dddddd;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1> Student Attendance </h1>
+    <table>
+        <tr>
+            <th>Student Name</th>
+            <th>Attendance (%)</th>
+        </tr>
+        <tr>
+            <td>John Doe</td>
+            <td>91%</td>
+        </tr>
+        <tr>
+            <td>Jane Smith</td>
+            <td>94%</td>
+        </tr>
+    </table>
+</body>
+
+</html>

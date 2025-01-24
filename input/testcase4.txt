@@ -1,0 +1,1 @@
+Create an HTML layout for a website. Make sure the layout has a header, a navigation menu, and a footer.

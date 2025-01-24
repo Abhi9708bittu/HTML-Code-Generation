@@ -1,0 +1,8 @@
+<html>
+
+<body>
+    <form action="processText.php" method="post"> <textarea rows="10" cols="30" name="modifiedText"></textarea><br>
+        <input type="submit" value="Submit" /> </form>
+</body>
+
+</html>

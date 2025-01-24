@@ -1,0 +1,1 @@
+Design an HTML page with a table of products and their prices.
